@@ -9,6 +9,11 @@ Logo
 https://www.ostfalia.de/export/system/modules/de.ostfalia.module.template/resources/images/logo/Ostfalia_German.png_230952558.png
 <b style="float:right; margin: 5px; width: 150px; height: 30px; background: url(link); background-size: 150px 30px;"></b>
 
+https://www.datawrapper.de/_/Zbxk0/
+Legende in der Beschreibung
+Dieser <b>Wert</b> wird gefettet. Dieser <b style="color:#d73445; border-bottom: 2px solid #d73445">Wert in Prozent</b> wird rot und unterstrichen dargestellt. 
+Es folgen zwei Zeilenumbrüche<br><br> und dann die Legende für die Jahre <b style="color:#d73445;border-bottom: 2px solid #d73445">2022</b>&nbsp;&nbsp;&nbsp;<b style="color:#387b94;border-bottom: 2px solid #387b94">2021</b>&nbsp;&nbsp;&nbsp;<b style="color:#898989;border-bottom: 2px dotted #898989">Ø 2015-2020</b><br><br>
+
 https://www.datawrapper.de/_/0OzMl/
 <b style="color:#494949;font-size:big;">spalte_name<b style="color:#254494;font-size:big;">spalte_value</b></b>
 
