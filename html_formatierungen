@@ -1,0 +1,47 @@
+Titel
+<b style="background:#494949;color:#ffffff;padding:1px 0px;">&nbsp;Thema&nbsp;</b><b style="color:#494949;border-bottom:1px solid #494949;">&nbsp;Titel titel&nbsp;&nbsp;</b>&nbsp;
+<b style="border-radius:8px;background:#494949;color:#ffffff;padding:1px 0px;">&nbsp;Thema&nbsp;</b><b style="color:#494949;border-bottom:1px solid #494949;">&nbsp;Titel titel&nbsp;&nbsp;</b>&nbsp;
+
+Ostfalia-blau: #1D228E 
+https://htmlcolorcodes.com/
+
+Logo
+https://www.ostfalia.de/export/system/modules/de.ostfalia.module.template/resources/images/logo/Ostfalia_German.png_230952558.png
+<b style="float:right; margin: 5px; width: 150px; height: 30px; background: url(link); background-size: 150px 30px;"></b>
+
+https://www.datawrapper.de/_/5XCk8/
+Labels
+<b style="border-radius:8px;border:1px solid #0A0A0A;background:#ffffff;font-size:14px;padding:5px;line-height:1.5">Land</b>
+<b style="background:#0A0A0A;color:#ffffff;font-size:15px; padding:2px;border:2px solid;margin:20px">value_1</b></br><b style="background:#0A0A0A;color:#ffffff;font-size:11px;padding:3px;">value_2</b> 
+
+https://www.datawrapper.de/_/i233O/
+Tooltipps Tabelle
+<table>
+  
+  <tr>
+    <td><b>Zeile_1</b></td>
+    <td>Wert_1</td>	
+  </tr>
+  <tr>
+    <td><b>Zeile_2</b></td>
+    <td>Wert_2</td>	
+  </tr>
+  <tr>
+    <td><b>Zeile_3</b></td>
+    <td>Wert_3</td>	
+  </tr>
+</table>
+
+Unterstrichen
+<b style='color:#494949;border-bottom:2px solid{{color}};'>{{value}}&nbsp;</td>	
+ 
+farbiges Symbol
+<font size="5;">{{ trendanzeige }}</font></td>	
+trendanzeige: <b style='color: #ff9e00;'>⬊</b>
+
+https://copypastecharacter.com/
+
+Strich
+<td colspan="5"><hr></td>
+letzte Aktualisierung: {{ FORMAT(datum, "DD.MM.YY") }} {{uhrzeit}} Uhr
+
