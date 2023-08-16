@@ -1,3 +1,5 @@
 
 
 https://tile.openstreetmap.org/{z}/{x}/{y}.png
+
+https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D
